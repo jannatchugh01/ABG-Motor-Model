@@ -205,12 +205,14 @@ ABG-Motors-Market-Entry-Analysis/
 │   ├── Japanese_Dataset.csv
 │   ├── Indian_Dataset.csv
 │
-├──  ABG Motors Analysis.ipynb
-│
-├──  ABG_Motors_Dashboard.twbx
-│
-├── Images/
+|── Images/
 │   ├── Dashboard.png
+|
+├──  ABG_Motors.twb
+│
+├──  ABG_Motors Analysis.ipynb
+│
+├── CAPSTONE PROJECT.pdf
 │
 ├── README.md
 ```
